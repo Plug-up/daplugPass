@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/exit.png</file>
+        <file>images/newConfig.png</file>
+        <file>images/recovery.png</file>
+        <file>images/redetect.png</file>
+        <file>images/logo.png</file>
+        <file>images/about.png</file>
+        <file>images/wait.gif</file>
+        <file>images/logoBlack.png</file>
+        <file>images/genPass.png</file>
+    </qresource>
+</RCC>
