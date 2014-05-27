@@ -12,9 +12,9 @@ Plug-up International - 2014
 
 This is a Qt project (Qt Creator 2.8.1 based on Qt 5.1.1).
 
-- Clone project.
+- Download and uncompress project ZIP file. 
 
-- Copy the .pro file corresponding to your OS (WIN32/LINUX) from the "DaplugPass-11/projectFile/" to "DaplugPass-11/".
+- Copy the .pro file corresponding to your OS (WIN32/LINUX) from the "<project directory>/projectFile/" to "<project directory>/".
 
 - Open the project file from Qt Creator.
 
@@ -24,7 +24,7 @@ This is a Qt project (Qt Creator 2.8.1 based on Qt 5.1.1).
 
 ## Note ##
 
-- On windows, copy the "libusb-1.0.dll" from "DaplugPass-11/libs/WIN32/libusb/" to the runtime directory (with the executable file).
+- On windows, copy the "libusb-1.0.dll" from "<project directory>/libs/WIN32/libusb/" to the runtime directory (with the executable file).
 
 
 ## Tested on ##
