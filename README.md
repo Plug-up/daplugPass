@@ -20,6 +20,8 @@ This is a Qt project (Qt Creator 2.8.1 based on Qt 5.1.1).
 
 - qMake, Rebuild then Run.
 
+- If GL error : sudo apt-get install libglu1-mesa-dev.
+
 ## Note ##
 
 - On windows, copy the "libusb-1.0.dll" from "DaplugPass-11/libs/WIN32/libusb/" to the runtime directory (with the executable file).
