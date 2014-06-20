@@ -30,6 +30,8 @@ This is a Qt project (Qt Creator 2.8.1 based on Qt 5.1.1).
 
 - On Windows, you may encounter a problem with the Daplug dongle driver in WINUSB mode. So you can install driver using Zadig (www.http://zadig.akeo.ie/). If you can't fix the problem using Zadig, you can use a Daplug dongle in HID mode instead.
 
+- On Linux, add proper udev rules corresponding to a Daplug dongle.
+
 ## Tested on ##
 
 - Windows 7 pro x86, Windows 7 pro x64 (only using HID dongles).
